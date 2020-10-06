@@ -1,4 +1,5 @@
 # gitattributes
+*.png binary diff=exif
 *.build  text
 *.cs     text diff=csharp
 *.csproj text
